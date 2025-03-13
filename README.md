@@ -51,5 +51,5 @@ This project is a Python Dash dashboard that provides a suite of encoding, decod
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/dashboard-utility.git
+   git clone [https://github.com/your-username/dashboard-utility.git](https://github.com/sharathDHD/basic-tools.git)
    cd dashboard-utility
